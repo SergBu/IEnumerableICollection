@@ -13,6 +13,7 @@ namespace IEnumerableICollection
             throw new NotImplementedException();
             Console.WriteLine();
             Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }
