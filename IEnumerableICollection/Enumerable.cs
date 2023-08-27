@@ -11,8 +11,6 @@ namespace IEnumerableICollection
         public IEnumerator GetEnumerator()
         {
             throw new NotImplementedException();
-            Console.WriteLine();
-            Console.WriteLine();
         }
     }
 }
